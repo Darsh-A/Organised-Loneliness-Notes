@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Typewriter",
+  "enabledCssSnippets": [
+    "content-padding"
+  ],
+  "theme": "moonstone",
+  "showViewHeader": false,
+  "showRibbon": false,
+  "baseFontSize": 18,
+  "nativeMenus": false
+}

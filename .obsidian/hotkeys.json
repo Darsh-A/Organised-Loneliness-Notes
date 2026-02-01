@@ -1,0 +1,18 @@
+{
+  "dict-linker:link-selection-to-dictionary": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "dict-linker:smart-link-dictionary-lookup": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ]
+}

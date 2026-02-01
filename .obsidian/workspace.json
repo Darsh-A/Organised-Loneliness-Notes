@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "09beda985f54e1ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "5197b2d61b642042",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "608f1ab7c8cbec29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MS1/Midsem1 TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Midsem1 TODO"
+            }
+          },
+          {
+            "id": "679aea9050e0679c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mijuskovic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mijuskovic"
+            }
+          },
+          {
+            "id": "3ea6a0235370f9b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ratcliffe and Strawson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ratcliffe and Strawson"
+            }
+          },
+          {
+            "id": "ca40030a1285e8b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roberts & Krueger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roberts & Krueger"
+            }
+          },
+          {
+            "id": "085de60f238b4bfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seeman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seeman"
+            }
+          },
+          {
+            "id": "a344891cfb10d1e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dictionary"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab160983b0b9249d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c34addea73636b6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b810d69d14f6cfab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2f23917ba6532366",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "726853f10b7def12",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "62be838bcc12c394",
+    "type": "split",
+    "children": [
+      {
+        "id": "39f3877944d6a780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af5f5bfc855bb29d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roberts & Krueger.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Roberts & Krueger"
+            }
+          },
+          {
+            "id": "986241a12ca041bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roberts & Krueger.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Roberts & Krueger"
+            }
+          },
+          {
+            "id": "aca679c97cd91a7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a096faa561aea0b6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0752de3a3f11f24e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roberts & Krueger.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Roberts & Krueger"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "679aea9050e0679c",
+  "lastOpenFiles": [
+    "reference/lec_rec/Voice 123 (1).txt",
+    "reference/lec_rec/444.txt",
+    "reference/lec_rec/123.txt",
+    "MS1/Midsem1 TODO.md",
+    "Mijuskovic.md",
+    "Ratcliffe and Strawson.md",
+    "Roberts & Krueger.md",
+    "Seeman.md",
+    "Dictionary.md",
+    "MS1",
+    "reference/readings/Axel Seeman The Psychological Structure of Loneliness .pdf",
+    "reference/slides/Ben Lazare20th Jan2026.pdf",
+    "reference/readings",
+    "reference/readings/Ben Lazare Mijuskovic - The Philosophical Roots of Loneliness and Intimacy_ Political Narcissism and the Problem of Evil-Palgrave Macmillan (2021).pdf",
+    "reference/slides/15thJan26.pdf",
+    "reference/slides/L28th jan.pdf",
+    "reference/readings/Ratcliffe-The sturcture of Interpersona Experience.pdf"
+  ]
+}

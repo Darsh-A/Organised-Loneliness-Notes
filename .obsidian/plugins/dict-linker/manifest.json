@@ -1,0 +1,8 @@
+{
+    "id": "dict-linker",
+    "name": "Quick Dictionary Linker",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Wraps selected text in dictionary syntax",
+    "isDesktopOnly": false
+}
