@@ -91,3 +91,39 @@ This freedom is absolute, but it confirms our isolation: we live together in a c
 
 ---
 
+# Husseri - Internal Time Consciousness
+
+Husserl synthesizes the insights of his predecessors (Descartes, Leibniz, Kant) into **Phenomenology**. His focus is on how the **Transcendental Ego** actively constructs the flow of time.
+
+### The Flux
+Time is not a series of snapshots. It is a **continuous temporal flow**. Husserl uses the **Melody** example (like Bergson and Peirce) to prove this. If we only heard the "now," we would hear isolated noises. To hear a melody, the mind must perform a specific act:
+- **Retention:** Holding the note that just passed.
+- **Presentation:** Awareness of the current note.
+- **Protention:** Anticipating the note to come.
+- This structure constitutes the **"Living Present."**
+
+### Meaning vs Causality
+(Critique of Neuroscience)
+- **Neuroscience/Empiricism:** Focuses on "acoustic causes" or "neurons." These are **particulars**—separate, distinct physical events.
+- **Phenomenology:** Focuses on **meaning**. A melody is an universal meaning that emerges from continuity. Brain neurons (which are separate parts) cannot explain the **unity** of the melody or the self.
+
+### Active Genesis
+The ego is not a passive receiver of time. It is **spontaneous** and **constitutive**. The ego makes the flow. This confirms the **immateriality** of the self, as "Time is motionless" (it doesn't move through space like a physical object), yet it flows within the mind.
+
+### Philosophical Lineage
+Husserl reworks the entire idealist tradition:
+- **Descartes' Ego:** The center of certainty.
+- **Leibniz's Monad:** The enclosed, self-contained unity.
+- **Kant's Spontaneity:** The active power to generate structure.
+
+---
+
+# Conclusions
+
+Mijuskovic concludes by tying the history of ideas back to the central theme of the course.
+
+- **The Necessity of Idealism:** Materialism (the brain, atoms, motion) fails to explain the **self**. If we were just matter, we would be reducible to external causes and separate parts. There would be no "unity" to feel lonely.
+
+- **The Root of Loneliness:** It is precisely because we are **subjective idealists** (constituted by immanent time, enclosed within a "windowless" sphere of consciousness, and defined by unique, unrepeatable Durations) that we are **existentially lonely**.
+
+- **The Paradox:** The very thing that gives us **Personal Identity** (our unique internal time) is what **isolates** us from everyone else. We live in a shared space, but we exist alone in an intimate time.

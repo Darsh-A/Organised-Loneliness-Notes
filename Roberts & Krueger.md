@@ -34,7 +34,7 @@ The subject must actively desire or value the social good. One cannot be lonely 
 #### Awareness of Unattainability:
 The subject must perceive that these desires cannot be met. This awareness manifests in **three dimensions**: 
 - **Cognitive:** A judgment that connection is impossible (e.g., "Nobody understands me").
-- **Embodied:** A somatic (bodily) sense of **felt inability** or lack of confidence to bridge the gap.
+- **Embodied:** A [[Dictionary#Somatically|somatic]] (bodily) sense of **felt inability** or lack of confidence to bridge the gap.
 - **Perceptual:** The environment is perceived as lacking **affordances**—the world looks like a place that does not offer opportunities (affordances) for *social* interaction.
 
 ---
@@ -42,7 +42,7 @@ The subject must perceive that these desires cannot be met. This awareness manif
 # Objective vs Subjective Loneliness
 
 > "Objective Loneliness: Low frequency/quantity of social contact. Measurable networks. Not sufficient for the emotional experience."  
-> "Subjective Loneliness: Felt unattainability of meaningful social connection... Can occur when alone, in crowds, or within relationships... A dispositional state with recurring episodes."  
+> "Subjective Loneliness: Felt unattainability of meaningful social connection. Can occur when alone, in crowds, or within relationships. A dispositional state with recurring episodes."  
 > (Roberts & Krueger, Slide 6)
 
 

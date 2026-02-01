@@ -184,3 +184,64 @@
 **7. Key Takeaway (Mijuskovic)**
 *   These philosophers (Leibniz, Kant, Bergson, Husserl) show that the self is an **active, temporally structured, and self-enclosed unity.**
 *   This subjective enclosure—where "mine" never passes into "yours"—is the philosophical root of **existential loneliness.**
+
+
+
+---
+
+# Missing stuff
+
+### **Missing from Part 1: Roberts & Krueger**
+
+**From Slide 12: Philosophical Significance**  
+I covered the definition of loneliness, but Slide 12 specifically lists how loneliness contributes to broader philosophy.
+
+- **Emotions about Absences:** Loneliness is a case study that proves emotions can be intentional states directed at nothing (or rather, the absence of something), refuting theories that say emotions must be about present objects.
+    
+- **Suffering from Blocked Possibilities:** It shows that suffering doesn't just come from "bad events" (like an injury) but from "blocked possibilities"—not being able to do what you want to do.
+    
+- **Clinical Relevance:** It offers a framework for psychiatry to distinguish between **social withdrawal** (behavior) and **loneliness** (feeling), which is crucial for diagnosing depression vs. solitude.
+    
+
+---
+
+### **Missing from Part 2: Matthew Ratcliffe**
+
+**From Slide 26: Phenomenological Context (Husserl & Merleau-Ponty)**  
+I mentioned the body generally, but Slide 26 explicitly links this to specific phenomenological concepts.
+
+- **Husserl:** The body is not just a perceived object; it is an **"organ of perception."** It is the tool through which we feel the "affective force" of the world (whether things are enticing or repulsive).
+    
+- **Merleau-Ponty:** He argues that when we see a living body, the surrounding objects immediately take on a **"fresh layer of significance."** The world doesn't just look physical; it looks like a tool for that person. (e.g., I see a hammer not just as wood/metal, but as something he can grab).
+    
+
+**From Slide 32: The Cup Analogy**  
+This is a specific analogy Ratcliffe uses to explain **Recognition**.
+
+- **The Analogy:** "Just as recognizing something as a cup involves grasping the possibility of drinking from it, recognizing someone as a person involves grasping the **possibility of meaningful interpersonal relations**."
+    
+- **Significance:** You don't have to drink from every cup you see, but you can't see it as a cup unless you know you could drink from it. Similarly, you don't have to interact with everyone, but you can't see them as a person unless you feel the potential for interaction.
+    
+
+---
+
+### **Missing from Part 4: Ben Lazare Mijuskovic**
+
+**From Slide 6: Literary Parallels (Stream of Consciousness)**  
+The slide explicitly links the philosophical theory of subjective time to literature.
+
+- **Stream-of-Consciousness Narrative:** This literary style illustrates the "existential solitude of the ego."
+    
+- **Key Authors:**
+    
+    - **James Joyce (Ulysses):** His narrative style mimics the **immanent flow** of the mind—continuous, internal, and unshared. It shows the self trapped in its own unique temporal sphere.
+        
+    - **Thomas Wolfe:** His work illustrates the connection between inner temporality and isolation.
+        
+
+**From Slide 14: Space and Time (Newton vs. Leibniz)**  
+I discussed time, but Slide 14 specifically contrasts their views on **Space** as well.
+
+- **Newton:** Viewed Space and Time as **"Absolute containers"** (almost divine). They exist independently of whether things are in them. (The "Box" view).
+    
+- **Leibniz:** Viewed Space and Time as **"Relative Relations."** They are not containers. Space is just the order of co-existing things; Time is the order of successive things. They are **mental/relational constructs** arising from perception, not external substances.

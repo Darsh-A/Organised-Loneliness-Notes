@@ -1,7 +1,7 @@
 /* Add horizontal padding while keeping full width */
 .markdown-source-view,
 .markdown-preview-view {
-  padding-left: 8vw;
-  padding-right: 8vw;
+  padding-left: 10vw;
+  padding-right: 10vw;
 }
 
