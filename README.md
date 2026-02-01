@@ -5,7 +5,10 @@ The notes are written in **Obisidian**
 ## Install
 
 1. Download the Repo
-```git clone https://github.com/Darsh-A/Organised-Loneliness-Notes.git```
+
+```
+git clone https://github.com/Darsh-A/Organised-Loneliness-Notes.git
+```
 
 2. Open in Obsidian as a vault
 
