@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ratcliffe and Strawson.md",
+                "file": "Seeman.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ratcliffe and Strawson"
+              "title": "Outline of Seeman"
             }
           }
         ],
@@ -255,13 +255,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "0827230090c6fd66",
+  "active": "085de60f238b4bfc",
   "lastOpenFiles": [
+    "Ratcliffe and Strawson.md",
     "Roberts & Krueger.md",
     "Dictionary.md",
     "MS1/Midsem1 TODO.md",
     "Mijuskovic.md",
-    "Ratcliffe and Strawson.md",
     "Seeman.md",
     "README.md",
     "reference/lec_rec/Voice 123 (1).txt",
