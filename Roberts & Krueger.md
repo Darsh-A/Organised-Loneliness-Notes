@@ -80,7 +80,7 @@ The **phenomenology** of loneliness describes the structure of the experience fr
 - **Social Performance (Faking):** Subject resorts to inauthenticity, performing a role rather than engaging in genuine connection. This reinforces the feeling of being hidden/unseen.
 
 ### Temporal:
-- **Past Comparisons:** The present absense is highlighted by the memory of a *Better social past*
+- **Past Comparisons:** The present absense is highlighted by the memory of a *better social past*
 - **Bleak Future Antticipation:** Viewing the future as a socially [[Dictionary#Impoverish|impoverished]] landscape, which reinforces current despair
 
 ---

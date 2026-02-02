@@ -91,7 +91,8 @@
               "title": "Dictionary"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roberts & Krueger.md",
+                "file": "Ratcliffe and Strawson.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Roberts & Krueger"
+              "title": "Outline of Ratcliffe and Strawson"
             }
           }
         ],
@@ -240,10 +241,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -253,10 +255,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "ca40030a1285e8b1",
+  "active": "0827230090c6fd66",
   "lastOpenFiles": [
-    "Dictionary.md",
     "Roberts & Krueger.md",
+    "Dictionary.md",
     "MS1/Midsem1 TODO.md",
     "Mijuskovic.md",
     "Ratcliffe and Strawson.md",
