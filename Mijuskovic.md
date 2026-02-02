@@ -40,7 +40,7 @@ Leibniz radicalizes the concept of the self through his theory of the **Monad**.
 ## Leibniz vs Descartes
 
 ### Time: Instant vs Continuous
-**Descartes (Cogito)** - Time is external to the mind. Instantaneous intuition, Time deepends on God.
+**Descartes (Cogito)** - Time is external to the mind. Instantaneous intuition, Time depends on God.
 **Leibniz (Monad)** - Monad (self) is inherently temporal. It is not just a series of flashes, but is a continuous flow. The self binds the past, present and future together from *within*
 
 ### Content: Empty vs Chock-full

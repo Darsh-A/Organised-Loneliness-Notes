@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seeman.md",
+                "file": "Mijuskovic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Seeman"
+              "title": "Outline of Mijuskovic"
             }
           }
         ],
@@ -255,14 +255,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "085de60f238b4bfc",
+  "active": "679aea9050e0679c",
   "lastOpenFiles": [
+    "Seeman.md",
     "Ratcliffe and Strawson.md",
     "Roberts & Krueger.md",
     "Dictionary.md",
     "MS1/Midsem1 TODO.md",
     "Mijuskovic.md",
-    "Seeman.md",
     "README.md",
     "reference/lec_rec/Voice 123 (1).txt",
     "reference/lec_rec/444.txt",
