@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mijuskovic.md",
+                "file": "MS2/Slides/HannahArendtLectureIdeologyTerror.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mijuskovic"
+              "title": "Backlinks for HannahArendtLectureIdeologyTerror"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roberts & Krueger.md",
+                "file": "MS2/Slides/HannahArendtLectureIdeologyTerror.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Roberts & Krueger"
+              "title": "Outgoing links from HannahArendtLectureIdeologyTerror"
             }
           },
           {
@@ -176,8 +176,7 @@
               "title": "Outline of HannahArendtLectureIdeologyTerror"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3f803cf2362ee20",
+  "active": "af5f5bfc855bb29d",
   "lastOpenFiles": [
     "MS1/Ben Lazare_Lect3rdFeb2026.pdf",
     "MS2/Slides/HannahArendtLectureIdeologyTerror.pdf",
