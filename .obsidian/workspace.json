@@ -4,95 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5197b2d61b642042",
+        "id": "325c03e5f2e7ebc0",
         "type": "tabs",
         "children": [
           {
-            "id": "ca40030a1285e8b1",
+            "id": "23d27ede6a82a4ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Roberts & Krueger.md",
-                "mode": "source",
-                "source": false
+                "file": "MS1/Ben Lazare_Lect3rdFeb2026.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Roberts & Krueger"
+              "icon": "lucide-file-text",
+              "title": "Ben Lazare_Lect3rdFeb2026"
             }
           },
           {
-            "id": "0827230090c6fd66",
+            "id": "a3f803cf2362ee20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Ratcliffe and Strawson.md",
-                "mode": "source",
-                "source": false
+                "file": "MS2/Slides/HannahArendtLectureIdeologyTerror.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Ratcliffe and Strawson"
-            }
-          },
-          {
-            "id": "085de60f238b4bfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seeman.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Seeman"
-            }
-          },
-          {
-            "id": "679aea9050e0679c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mijuskovic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mijuskovic"
-            }
-          },
-          {
-            "id": "d153ae931451e4f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MS1/Midsem1 TODO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Midsem1 TODO"
-            }
-          },
-          {
-            "id": "a344891cfb10d1e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dictionary"
+              "icon": "lucide-file-text",
+              "title": "HannahArendtLectureIdeologyTerror"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mijuskovic.md",
+                "file": "MS2/Slides/HannahArendtLectureIdeologyTerror.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mijuskovic"
+              "title": "Outline of HannahArendtLectureIdeologyTerror"
             }
           }
         ],
@@ -251,16 +191,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "679aea9050e0679c",
+  "active": "a3f803cf2362ee20",
   "lastOpenFiles": [
+    "MS1/Ben Lazare_Lect3rdFeb2026.pdf",
+    "MS2/Slides/HannahArendtLectureIdeologyTerror.pdf",
+    "MS1/Midsem1 TODO.md",
+    "MS1/Ben Lazare20th Jan2026.pdf",
+    "Dictionary.md",
+    "MS2/Enns.pdf",
     "Seeman.md",
     "Ratcliffe and Strawson.md",
     "Roberts & Krueger.md",
-    "Dictionary.md",
-    "MS1/Midsem1 TODO.md",
     "Mijuskovic.md",
     "README.md",
     "reference/lec_rec/Voice 123 (1).txt",
@@ -269,9 +214,6 @@
     "MS1",
     "reference/readings/Axel Seeman The Psychological Structure of Loneliness .pdf",
     "reference/slides/Ben Lazare20th Jan2026.pdf",
-    "reference/readings",
-    "reference/readings/Ben Lazare Mijuskovic - The Philosophical Roots of Loneliness and Intimacy_ Political Narcissism and the Problem of Evil-Palgrave Macmillan (2021).pdf",
-    "reference/slides/15thJan26.pdf",
-    "reference/slides/L28th jan.pdf"
+    "reference/readings"
   ]
 }
