@@ -44,5 +44,5 @@ Berardi describes an **"anthropological mutation"** where society has shifted in
 The profound philosophical difference is **choice**. Under totalitarianism, loneliness was forced upon people through fear. Today, under high-tech capitalism, we choose the tools of our own isolation because they offer pleasure, efficiency, and convenience. 
 *We are pressed together digitally (hyper-connected), yet bodily and socially pulled apart.*
 
-
+ 
 
