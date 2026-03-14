@@ -36,5 +36,13 @@ Update to Arendt's theory for 21st century
 
 > "Instead of fear, pleasure and convenience draw us into submission. We willingly trade privacy and individuality for recognition and ease." (Enns, Slide 25)
 
-Enns introduces ***Franco "Bifo" Berardi*** to update Arendts theory for 21st century 
+Enns introduces ***Franco "Bifo" Berardi*** to update Arendts theory for 21st century.
+Today, we are not facing totalitarian terror; rather, our loneliness is organized by **"high-tech capitalism."**
+
+Berardi describes an **"anthropological mutation"** where society has shifted into a digital infosphere, resulting in the **"desertification"** of human life. Arendt spoke of the "iron band of terror" pressing people together; Berardi argues we now face an **"iron band of technology."**
+
+The profound philosophical difference is **choice**. Under totalitarianism, loneliness was forced upon people through fear. Today, under high-tech capitalism, we choose the tools of our own isolation because they offer pleasure, efficiency, and convenience. 
+*We are pressed together digitally (hyper-connected), yet bodily and socially pulled apart.*
+
+
 
