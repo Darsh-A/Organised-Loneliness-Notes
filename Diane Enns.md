@@ -25,6 +25,8 @@ Arendt recognized that loneliness is not just a sad emotion suffered in marginal
 
 # Berandi's Update: Iron Band of Technology
 
+Update to Arendt's theory for 21st century
+
 >"Today’s loneliness stems from 'high-tech capitalism,' not totalitarianism. 
 >It is produced by interconnected forces: 
 > - competitive work environments
@@ -33,4 +35,6 @@ Arendt recognized that loneliness is not just a sad emotion suffered in marginal
 >(Enns, Slide 4)
 
 > "Instead of fear, pleasure and convenience draw us into submission. We willingly trade privacy and individuality for recognition and ease." (Enns, Slide 25)
+
+Enns introduces ***Franco "Bifo" Berardi*** to update Arendts theory for 21st century 
 
