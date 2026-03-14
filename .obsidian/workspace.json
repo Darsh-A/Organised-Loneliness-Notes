@@ -4,35 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "325c03e5f2e7ebc0",
+        "id": "e0c5c8e464ab7951",
         "type": "tabs",
         "children": [
           {
-            "id": "23d27ede6a82a4ca",
+            "id": "eb0403cb25e0c2bb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MS1/Ben Lazare_Lect3rdFeb2026.pdf"
+                "file": "Ratcliffe and Strawson.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Ben Lazare_Lect3rdFeb2026"
+              "icon": "lucide-file",
+              "title": "Ratcliffe and Strawson"
             }
           },
           {
-            "id": "a3f803cf2362ee20",
+            "id": "a10934ce87b1d67d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MS2/Slides/HannahArendtLectureIdeologyTerror.pdf"
+                "file": "Roberts & Krueger.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "HannahArendtLectureIdeologyTerror"
+              "icon": "lucide-file",
+              "title": "Roberts & Krueger"
+            }
+          },
+          {
+            "id": "7825084a7d26ca58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roberts & Krueger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roberts & Krueger"
+            }
+          },
+          {
+            "id": "a7e091f4c776f5b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diane Enns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diane Enns"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "62be838bcc12c394",
@@ -105,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MS2/Slides/HannahArendtLectureIdeologyTerror.pdf",
+                "file": "Diane Enns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HannahArendtLectureIdeologyTerror"
+              "title": "Backlinks for Diane Enns"
             }
           },
           {
@@ -180,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,25 +228,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af5f5bfc855bb29d",
+  "active": "a7e091f4c776f5b0",
   "lastOpenFiles": [
-    "MS1/Ben Lazare_Lect3rdFeb2026.pdf",
+    "Roberts & Krueger.md",
+    "Ratcliffe and Strawson.md",
+    "Diane Enns.md",
+    "Mijuskovic.md",
     "MS2/Slides/HannahArendtLectureIdeologyTerror.pdf",
+    "MS1/Ben Lazare_Lect3rdFeb2026.pdf",
     "MS1/Midsem1 TODO.md",
     "MS1/Ben Lazare20th Jan2026.pdf",
     "Dictionary.md",
     "MS2/Enns.pdf",
     "Seeman.md",
-    "Ratcliffe and Strawson.md",
-    "Roberts & Krueger.md",
-    "Mijuskovic.md",
     "README.md",
     "reference/lec_rec/Voice 123 (1).txt",
     "reference/lec_rec/444.txt",
     "reference/lec_rec/123.txt",
     "MS1",
     "reference/readings/Axel Seeman The Psychological Structure of Loneliness .pdf",
-    "reference/slides/Ben Lazare20th Jan2026.pdf",
-    "reference/readings"
+    "reference/slides/Ben Lazare20th Jan2026.pdf"
   ]
 }
