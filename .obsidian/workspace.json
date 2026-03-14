@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary.md",
+                "file": "Diane Enns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dictionary"
+              "title": "Diane Enns"
             }
           }
         ],
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "62be838bcc12c394",
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary.md",
+                "file": "Diane Enns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dictionary"
+              "title": "Backlinks for Diane Enns"
             }
           },
           {
@@ -229,6 +230,7 @@
   },
   "active": "a7e091f4c776f5b0",
   "lastOpenFiles": [
+    "Dictionary.md",
     "Diane Enns.md",
     "Roberts & Krueger.md",
     "Ratcliffe and Strawson.md",
@@ -237,7 +239,6 @@
     "MS1/Ben Lazare_Lect3rdFeb2026.pdf",
     "MS1/Midsem1 TODO.md",
     "MS1/Ben Lazare20th Jan2026.pdf",
-    "Dictionary.md",
     "MS2/Enns.pdf",
     "Seeman.md",
     "README.md",

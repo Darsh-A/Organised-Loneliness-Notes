@@ -20,4 +20,17 @@ When modern media does address loneliness, it treats it as a **personal**, psych
 To move beyond the individualize view of loneliness, Enns turns to **Hannah Arendt.**
 
 Arendt recognized that loneliness is not just a sad emotion suffered in marginal circumstances (like old age), it can be **weaponized.** 
-***Totalitarianism*** uses terror to systemically produce loneliness by destroying the spaces where people can act together and trust one another. By destroying these shared human bonds, the regime creates a **mass of isolation**, superfluous individuals who are entirely susceptible to domination
+***Totalitarianism*** uses terror to systemically produce loneliness by destroying the spaces where people can act together and trust one another. By destroying these shared human bonds, the regime creates a **mass of isolation**, [[Dictionary#Superfluous| superfluous]] individuals who are entirely susceptible to domination.
+
+
+# Berandi's Update: Iron Band of Technology
+
+>"Today’s loneliness stems from 'high-tech capitalism,' not totalitarianism. 
+>It is produced by interconnected forces: 
+> - competitive work environments
+> - Financial abstraction-
+> - Digital communication systems." 
+>(Enns, Slide 4)
+
+> "Instead of fear, pleasure and convenience draw us into submission. We willingly trade privacy and individuality for recognition and ease." (Enns, Slide 25)
+
