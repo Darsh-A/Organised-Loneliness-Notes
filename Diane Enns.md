@@ -6,4 +6,7 @@
 
 > "In many cases, it will be correct to say: you are not lonely because you are alone — you are alone because you are lonely." (Enns Reading, p. 32, citing Svendsen)
 
-Enns begins by *criti*
+Enns begins by *criticizing* how philosophy and modern media typically handle loneliness. Historically, philosophers have romanticized **solitude** while completely **ignoring loneliness.**
+
+When modern media does address loneliness, it treats it as a **personal**, psychological falling or a simple public health epidemic. The proposed solutions **individualize** the problem (Blaming the lonely person). Enns argues this approah is flawed because it completely **ignores** the political, econimic and social conditions that produce loneliness.
+
