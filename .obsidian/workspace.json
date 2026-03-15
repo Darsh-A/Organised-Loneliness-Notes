@@ -57,7 +57,8 @@
               "title": "Jennifer Gaffney - Political Loneliness Modern Liberal Subjects in Hiding (2020, Rowman Littlefield) - libgen.li"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,13 +221,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c21b1a3bb348c88",
+  "active": "d88d4782a719fbb4",
   "lastOpenFiles": [
-    "MS2/Slides/DEnnsOrganized Loneliness.pdf",
-    "MS2/Enns.pdf",
-    "Term Paper.md",
-    "MS2/Jennifer Gaffney - Political Loneliness Modern Liberal Subjects in Hiding (2020, Rowman Littlefield) - libgen.li.pdf",
     "MS2/Hannah Arendt - The Origins of Totalitarianism (1973, Harcourt, Brace, Jovanovich) - libgen.li-505-524.pdf",
+    "MS2/Slides/DEnnsOrganized Loneliness.pdf",
+    "Term Paper.md",
+    "MS2/Enns.pdf",
+    "MS2/Jennifer Gaffney - Political Loneliness Modern Liberal Subjects in Hiding (2020, Rowman Littlefield) - libgen.li.pdf",
     "Diane Enns.md",
     "Roberts & Krueger.md",
     "Ratcliffe and Strawson.md",
@@ -240,7 +241,6 @@
     "README.md",
     "reference/lec_rec/Voice 123 (1).txt",
     "reference/lec_rec/444.txt",
-    "reference/lec_rec/123.txt",
-    "MS1"
+    "reference/lec_rec/123.txt"
   ]
 }
