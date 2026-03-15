@@ -86,4 +86,5 @@ Ultimately, loneliness is best understood through Arendt’s framework as a poli
 [1] Heidegger, Martin. Being and Time.
 [2] https://en.wikipedia.org/wiki/Being_and_Time
 [3] Dermot Moran, The Cambridge Heidegger Lexicon (p.111-115).
-[4] Arendt, The Human Condition
+[4] Hannah Arendt, The Human Condition
+[5] Hannah Arendt, The Origins of Totalitarianism.
