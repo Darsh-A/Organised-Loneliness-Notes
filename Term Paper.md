@@ -65,7 +65,7 @@ To understand why Arendt’s political framework is more effective, we must firs
 
 For Heidegger, this is the root of modern loneliness: we are surrounded by others, yet we remain entirely hidden and anonymous. However, this framework is fundamentally pre-political. It describes the baseline architecture of existence. Because falling into das Man is an inevitable, structural pull of our being, Heidegger's loneliness is an ontological default rather than a deliberate political strategy. It falls outside the realm of politics because it is baked into our nature long before we ever step into public life.
 
-Arendt recognizes the limits of treating loneliness merely as an existential default. She shifts the focus from ontology to the political sphere. For Arendt, human beings are defined by "natality", the capacity to begin something new and "plurality", the fact that we are all equal but entirely distinct (Arendt, The Human Condition). These qualities require a public "space of appearance" to be realized. We only truly exist as free individuals when we can speak and act in concert with others in the public realm.
+Arendt recognizes the limits of treating loneliness merely as an existential default. She shifts the focus from ontology to the political sphere. For Arendt, human beings are defined by "natality" ([4] p7), the capacity to begin something new and "plurality" ([4] p7), the fact that we are all equal but entirely distinct. These qualities require a public "space of appearance" ([4] p7) to be realized. We only truly exist as free individuals when we can speak and act in concert with others in the public realm.
 
 Therefore, for Arendt, loneliness is an active, politically produced condition. In The Origins of Totalitarianism, she outlines how regimes use terror to destroy the public sphere. By eliminating the spaces where people can act together, regimes strip individuals of their plurality. Terror acts as an "iron band" that destroys the space between people, pressing them together until their distinctiveness disappears into "One Man of gigantic dimensions" (Arendt, The Origins of Totalitarianism). Arendt calls this "organized loneliness." It is the feeling of being completely uprooted and deserted by humanity. While Heidegger viewed the destruction of individuality as a passive byproduct of everyday socializing, Arendt rightly identifies it as a deliberate political mechanism designed to make populations totally susceptible to the coercive logic of ideology.
 
@@ -85,4 +85,5 @@ Ultimately, loneliness is best understood through Arendt’s framework as a poli
 ##### References
 [1] Heidegger, Martin. Being and Time.
 [2] https://en.wikipedia.org/wiki/Being_and_Time
-[3] The Cambridge Heidegger Lexicon (pp.111-115), Dermot Moran.
+[3] Dermot Moran, The Cambridge Heidegger Lexicon (p.111-115).
+[4] Arendt, The Human Condition
