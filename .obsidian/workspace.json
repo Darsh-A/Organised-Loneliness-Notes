@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "7d66b587808be604",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MS2/Hannah Arendt - The Origins of Totalitarianism (1973, Harcourt, Brace, Jovanovich) - libgen.li-505-524.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Hannah Arendt - The Origins of Totalitarianism (1973, Harcourt, Brace, Jovanovich) - libgen.li-505-524"
+            }
+          },
+          {
             "id": "d88d4782a719fbb4",
             "type": "leaf",
             "state": {
@@ -222,9 +234,9 @@
   },
   "active": "7c21b1a3bb348c88",
   "lastOpenFiles": [
-    "MS2/Slides/DEnnsOrganized Loneliness.pdf",
     "MS2/Hannah Arendt - The Origins of Totalitarianism (1973, Harcourt, Brace, Jovanovich) - libgen.li-505-524.pdf",
     "Term Paper.md",
+    "MS2/Slides/DEnnsOrganized Loneliness.pdf",
     "MS2/Enns.pdf",
     "MS2/Jennifer Gaffney - Political Loneliness Modern Liberal Subjects in Hiding (2020, Rowman Littlefield) - libgen.li.pdf",
     "Diane Enns.md",
