@@ -8,62 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb0403cb25e0c2bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ratcliffe and Strawson.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ratcliffe and Strawson"
-            }
-          },
-          {
-            "id": "a10934ce87b1d67d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roberts & Krueger.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roberts & Krueger"
-            }
-          },
-          {
-            "id": "7825084a7d26ca58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roberts & Krueger.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roberts & Krueger"
-            }
-          },
-          {
-            "id": "a7e091f4c776f5b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diane Enns.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diane Enns"
-            }
-          },
-          {
             "id": "7c21b1a3bb348c88",
             "type": "leaf",
             "state": {
@@ -76,9 +20,44 @@
               "icon": "lucide-file",
               "title": "Term Paper"
             }
+          },
+          {
+            "id": "d88d4782a719fbb4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MS2/Slides/DEnnsOrganized Loneliness.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DEnnsOrganized Loneliness"
+            }
+          },
+          {
+            "id": "183eb691ff77194a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MS2/Hannah Arendt - The Origins of Totalitarianism (1973, Harcourt, Brace, Jovanovich) - libgen.li-505-524.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Hannah Arendt - The Origins of Totalitarianism (1973, Harcourt, Brace, Jovanovich) - libgen.li-505-524"
+            }
+          },
+          {
+            "id": "a8056cb3c6907ae1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MS2/Jennifer Gaffney - Political Loneliness Modern Liberal Subjects in Hiding (2020, Rowman Littlefield) - libgen.li.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Jennifer Gaffney - Political Loneliness Modern Liberal Subjects in Hiding (2020, Rowman Littlefield) - libgen.li"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "62be838bcc12c394",
@@ -244,24 +222,25 @@
   },
   "active": "7c21b1a3bb348c88",
   "lastOpenFiles": [
-    "Diane Enns.md",
+    "MS2/Slides/DEnnsOrganized Loneliness.pdf",
+    "MS2/Enns.pdf",
     "Term Paper.md",
-    "Dictionary.md",
+    "MS2/Jennifer Gaffney - Political Loneliness Modern Liberal Subjects in Hiding (2020, Rowman Littlefield) - libgen.li.pdf",
+    "MS2/Hannah Arendt - The Origins of Totalitarianism (1973, Harcourt, Brace, Jovanovich) - libgen.li-505-524.pdf",
+    "Diane Enns.md",
     "Roberts & Krueger.md",
     "Ratcliffe and Strawson.md",
+    "Dictionary.md",
     "Mijuskovic.md",
     "MS2/Slides/HannahArendtLectureIdeologyTerror.pdf",
     "MS1/Ben Lazare_Lect3rdFeb2026.pdf",
     "MS1/Midsem1 TODO.md",
     "MS1/Ben Lazare20th Jan2026.pdf",
-    "MS2/Enns.pdf",
     "Seeman.md",
     "README.md",
     "reference/lec_rec/Voice 123 (1).txt",
     "reference/lec_rec/444.txt",
     "reference/lec_rec/123.txt",
-    "MS1",
-    "reference/readings/Axel Seeman The Psychological Structure of Loneliness .pdf",
-    "reference/slides/Ben Lazare20th Jan2026.pdf"
+    "MS1"
   ]
 }
