@@ -14,7 +14,9 @@ most important or noticeable
 # Praecox
 Praecox is a Latin term meaning "very early," "premature," or "prematurely ripe"
 
-
 # Superfluous
 more than is wanted; not needed.
 something unnecessary, excessive, or more than what is required
+
+# Anthropological
+the scientific study of humanity, covering human biology, culture, societies, linguistics, and development across past and present times
