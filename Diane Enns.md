@@ -67,5 +67,9 @@ Enn identifies specific spheres of modern life where this "desertification" mani
 ## A. Work
 >  "Modern work is flexible, precarious, competitive, and largely cognitive ('cognitarians'). Convenience and flexibility come at the cost of shared workplaces and daily embodied interaction." (Enns, Slide 33)
 
-Under high-tech capitalism, physical
+Under high-tech capitalism, physical labor is replaced by mental labor. Because work is digital, it follows us everywhere, destroying shared physical spaces.
+The relentless competition drives students and workers into isolated "silos", breeding anxiety and conformity. 
+This creates a vicious cycle - Work isoltes us and because we are so isolated and lonely we obsessively turn back to work to give our lives structure.
+
+# B. Fam
 
