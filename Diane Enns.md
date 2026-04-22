@@ -78,3 +78,4 @@ This creates a vicious cycle - Work isoltes us and because we are so isolated an
 Since public and social world is harsh, we retreat into the nuclear family or romantic relationships, treating them as psychological lifeboats. Philosophically, this intense privatization makes the family an "anti-social" unit. It hoards our empathy and makes us view the outside world as cold and friendless. 
 
 ## C. Hikkikomori
+The phenomenon where thousands of people completely isolate themselves in their rooms for years. Enns argues it should be viewed as a stark, rational adaptation to the organized loneliness of modern life. 
