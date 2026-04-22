@@ -19,7 +19,7 @@ When modern media does address loneliness, it treats it as a **personal**, psych
 
 To move beyond the individualize view of loneliness, Enns turns to **Hannah Arendt.**
 
-Arendt recognized that loneliness is not just a sad emotion suffered in marginal circumstances (like old age), it can be **weaponized.** 
+Arendt recognized that loneliness is not just a sad emotion suffered in marginal circumstances (like old age), it can be **weaponized.** [[Dictionary]]
 ***Totalitarianism*** uses terror to systemically produce loneliness by destroying the spaces where people can act together and trust one another. By destroying these shared human bonds, the regime creates a **mass of isolation**, [[Dictionary#Superfluous| superfluous]] individuals who are entirely susceptible to domination.
 
 
