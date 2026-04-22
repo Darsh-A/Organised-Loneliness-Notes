@@ -71,5 +71,10 @@ Under high-tech capitalism, physical labor is replaced by mental labor. Because 
 The relentless competition drives students and workers into isolated "silos", breeding anxiety and conformity. 
 This creates a vicious cycle - Work isoltes us and because we are so isolated and lonely we obsessively turn back to work to give our lives structure.
 
-# B. Fam
+## B. Family and Relationships
 
+> "As broader social life erodes, we rely heavily on intimate partners and family. The family can be 'anti-social,' making the outside world feel cold. Its desirability masks its role in sustaining organized loneliness." (Enns, Slide 36)
+
+Since public and social world is harsh, we retreat into the nuclear family or romantic relationships, treating them as psychological lifeboats. Philosophically, this intense privatization makes the family an "anti-social" unit. It hoards our empathy and makes us view the outside world as cold and friendless. 
+
+## C. Hikkikomori
