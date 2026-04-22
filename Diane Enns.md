@@ -54,6 +54,18 @@ The profound philosophical difference is **choice**. Under totalitarianism, lone
 
 To understand the [[Dictionary#Anthropological|Anthropological]] Mutation caused by high-tech capitalism Berardi distinguishes between two ways human beings interact:
 
-1.***Conjunction*** - Traditional, Authentic human interaction. It is deeply embodied, relying on empathy, nuance, reading between the lines (what is left unsaid), and physical presence. In conjuction, the interaction is unpredictable and creative. Both parties are transformed by encountering the otherness of each other
+1. ***Conjunction*** - Traditional, Authentic human interaction. It is deeply embodied, relying on empathy, nuance, reading between the lines (what is left unsaid), and physical presence. In conjuction, the interaction is unpredictable and creative. Both parties are transformed by encountering the otherness of each other
 
-2. ***Connection -*** is the digital mode. It is purely functional and logical. Think of swiping left, liking a post, sending an emoji etc. It follows an algorithm or syntax. It removes ambiguity and empathy. While highly efficient and usefu
+2. ***Connection -*** is the digital mode. It is purely functional and logical. Think of swiping left, liking a post, sending an emoji etc. It follows an algorithm or syntax. It removes ambiguity and empathy. While highly efficient and useful, It is completely devoid of meaning
+
+The *danger* is that connective logic spills over into our physical lives resulting in summary dismissals of strangers and a loss of the capacity to understand human complexity.
+
+# Sites of Organized Loneliness
+- At Home in the Desert
+Enn identifies specific spheres of modern life where this "desertification" manifests
+
+## A. Work
+>  "Modern work is flexible, precarious, competitive, and largely cognitive ('cognitarians'). Convenience and flexibility come at the cost of shared workplaces and daily embodied interaction." (Enns, Slide 33)
+
+Under high-tech capitalism, physical
+
