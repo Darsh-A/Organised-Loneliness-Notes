@@ -52,4 +52,8 @@ The profound philosophical difference is **choice**. Under totalitarianism, lone
 
 >"Connection (functional, logical relation): Based on compliance with rules and syntactic structures. Functional, repeatable, algorithmic exchanges. No real empathy, nuance, or ambiguity... interaction is useful but not meaningful." (Enns, Slide 22)
 
-To understand the Anthropological
+To understand the [[Dictionary#Anthropological|Anthropological]] Mutation caused by high-tech capitalism Berardi distinguishes between two ways human beings interact:
+
+1.***Conjunction*** - Traditional, Authentic human interaction. It is deeply embodied, relying on empathy, nuance, reading between the lines (what is left unsaid), and physical presence. In conjuction, the interaction is unpredictable and creative. Both parties are transformed by encountering the otherness of each other
+
+2. ***Connection -*** is the digital mode. It is purely functional and logical. Think of swiping left, liking a post, sending an emoji etc. It follows an algorithm or syntax. It removes ambiguity and empathy. While highly efficient and usefu
