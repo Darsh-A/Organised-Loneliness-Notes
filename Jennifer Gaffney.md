@@ -14,3 +14,7 @@ Because our modern worldview treats everything (including human relationships) a
 # Radical Shift: From Modern Subject to Dasein
 
 > "Heidegger replaces the isolated modern subject with the relational structure of being-in-the-world (***Dasein***). Human existence is not: A self-contained consciousness or Defined by fixed essences." (Gaffney, Slide 3)
+
+> "The 'essence' ('Wesen') of Dasein lies in its existence (Existenz). The characteristics to be found in this being are thus not pre-given 'attributes' of an objectively present being, but rather possible ways for it to be and only this." (Gaffney Book, p. 26 / Slide 3)
+
+To cure this moden alienation, Heidegger argues we must completely destroy the way Western philosophy has viewed th human being since *Descartes*.
