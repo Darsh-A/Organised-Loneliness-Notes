@@ -18,3 +18,5 @@ Because our modern worldview treats everything (including human relationships) a
 > "The 'essence' ('Wesen') of Dasein lies in its existence (Existenz). The characteristics to be found in this being are thus not pre-given 'attributes' of an objectively present being, but rather possible ways for it to be and only this." (Gaffney Book, p. 26 / Slide 3)
 
 To cure this moden alienation, Heidegger argues we must completely destroy the way Western philosophy has viewed th human being since *Descartes*.
+
+1. **The Cartesian Error:** Descarted viewed the human as an *isolated modern subject* — a mind tra 
