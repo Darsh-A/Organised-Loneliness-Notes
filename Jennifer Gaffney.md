@@ -24,3 +24,12 @@ To cure this moden alienation, Heidegger argues we must completely destroy the w
 3. **Existence Precedes Essence:** Unlike a table or a rock, Dasein does not have a fixed, pre-given *essense* or set of properties. Instead, Dasein is a pure possibility. What we are is determined by how we choose to exist.
 4. **Aletheia:** Therefore, philosophy's goal is not epistomelogy (scientific fact checking), but ontology (understanding what it meants to *be*). Truth is not a set of facts, but **aletheia** — the process of "uncovering" or disclosing the meaningfulness of the world we are already wrapped up in.
 
+# Fundamental Structure of Dasein
+To understand how Dasein relates to the world, Gaffney outlines three fundamental existential structures based on Heideggers **Being and Time**
+	Temporality, Spatiality, Care 
+
+### A. Temporality
+For Heidegger, we do not exist in time the way a shoe sits in a box. **We are temporal**. Our existence is stretched across three *exstasies*:
+1. **Throwness (Past):** We are always already 'thrown' into a world, a language, a culture we did not choose.
+2. **Projection (Future):** Because Dasein is defined by possibility, we are always throwing ourselves foward into the future, planning and anticipating.
+3. **Engagement (Present):** The collision of our thrown past and our pr
