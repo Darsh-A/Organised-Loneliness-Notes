@@ -19,4 +19,4 @@ Because our modern worldview treats everything (including human relationships) a
 
 To cure this moden alienation, Heidegger argues we must completely destroy the way Western philosophy has viewed th human being since *Descartes*.
 
-1. **The Cartesian Error:** Descarted viewed the human as an *isolated modern subject* — a mind tra 
+1. **The Cartesian Error:** Descarted viewed the human as an *isolated modern subject* — a mind trapped inside a head, staring out at a world of objects 
