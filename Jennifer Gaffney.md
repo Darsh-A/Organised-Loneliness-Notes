@@ -19,4 +19,8 @@ Because our modern worldview treats everything (including human relationships) a
 
 To cure this moden alienation, Heidegger argues we must completely destroy the way Western philosophy has viewed th human being since *Descartes*.
 
-1. **The Cartesian Error:** Descarted viewed the human as an *isolated modern subject* — a mind trapped inside a head, staring out at a world of objects 
+1. **The Cartesian Error:** Descarted viewed the human as an *isolated modern subject* — a mind trapped inside a head, staring out at a world of objects, trying to achieve *epistomelogical certainty* (How do i know apple is real). Gaffney notes this *subject-object dualism* is the very root our modern loneliness because it structurally isolates us from the world.
+2. **Daesein (Being-there):** Heidegger renames the human being Dasein. Dasein is not a  subject detached from the world, it is *being-in-the-world*. We are always already immersed in a web of relationships and meanings.
+3. **Existence Precedes Essence:** Unlike a table or a rock, Dasein does not have a fixed, pre-given *essense* or set of properties. Instead, Dasein is a pure possibility. What we are is determined by how we choose to exist.
+4. **Aletheia:** Therefore, philosophy's goal is not epistomelogy (scientific fact checking), but ontology (understanding what it meants to *be*). Truth is not a set of facts, but **aletheia** — the process of "uncovering" or disclosing the meaningfulness of the world we are already wrapped up in.
+
