@@ -78,4 +78,14 @@ This creates a vicious cycle - Work isoltes us and because we are so isolated an
 Since public and social world is harsh, we retreat into the nuclear family or romantic relationships, treating them as psychological lifeboats. Philosophically, this intense privatization makes the family an "anti-social" unit. It hoards our empathy and makes us view the outside world as cold and friendless. 
 
 ## C. Hikkikomori
-The phenomenon where thousands of people completely isolate themselves in their rooms for years. Enns argues it should be viewed as a stark, rational adaptation to the organized loneliness of modern life. 
+The phenomenon where thousands of people completely isolate themselves in their rooms for years. Enns argues it should be viewed as a stark, rational adaptation to the organized loneliness of modern life. It is a withdrawal from hell of endless competition and mental exploitation
+
+# Freedom, Convenience and Resistance
+
+>"Loneliness is the price we pay for the freedom of nobody bothering us. The feeling of freedom when walking in a city where no one bothers us and, on the other, 'a sense of loneliness, and the impoverishment of shared sensibility.'" (Enns Reading, p. 42)
+
+>"To resist organized loneliness, we must accept being interrupted or inconvenienced. Solidarity, friendship, courtesy, and care become acts of resistance." (Enns, Slide 41)
+
+**Modern Definition of Freedom:** Today we equate freedom with autonomy, convenience and absolute independence. However, the cost of this frictionless convenience is profound loneliness. If loneliness is built on convenience and the digital avoidance of others, then resistance requires inconvenience.
+
+To cure this, we must actively allow ourselves to be interrupted, bothered and engaged by others in the physical world.
