@@ -40,3 +40,20 @@ Because the subjects are completely alienated from reality, they cling to this r
 
 # Triad of Separation: Isolation, Solitude, Loneliness
 
+To explain why human beings surrender to totalitarian ideology, Arendt distinguishes between three states of being apart from others.
+
+#### A. Isolation
+*The Political Realm*
+Isolation happens when the poiitical space is destroyed by tyrants. People cannot "act in concert". meaning they lose political power. Howeverm isolation leaves the private spehere intact. The isolated man can still be a homo-faber (A creator/fabricator) and maintain private relationships. **Isolation is pre-totalitarian**.
+
+#### B. Solitude
+*The Private Realm*
+Solitude is a positive, necessary state for thinking. When you are in solitude, you are never truly alone because you are engaging in the 'silent dialogue of the mind with itself'. You are **two-in-one**. However, to remain sane, you must eventually leave solitude and return to the company of equals to cconfirm your identity and become 'one' again.
+
+#### C. Loneliness
+*The Social Realm*
+Loneliness destroys both the public (isolation) and the private (Solitude) realms. In loneliness, you lose the trust of others, which means you lose trust in yourself and the reality of the world.
+
+### The Philosophical Connection to Totalitarianism:
+When people are totally lonely — they lose their common sense. Desperate for any anchor, they cling to the only thing left that doesnt require the presence of the world: the strict, self-evident rules of logical deduction. This is exactly why the lonely masses are so perfectly primed to be swept up by the "ice-cold reasoning" of totalitarian ideology.
+
