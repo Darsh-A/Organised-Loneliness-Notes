@@ -62,4 +62,15 @@ Instead of existing as unique individuals, we succumb to 'publicness'. We think 
 
 # Anxiety and Authenticity
 
+ >Authenticity emerges in the mood of anxiety. Dasein confronts its being-toward-death: Death is one’s 'ownmost nonrelational possibility.' It radically individuates. (Gaffney, Slide 37)
  
+> Leaping in: Takes over another’s care. Makes the other dependent. Inauthentic form of help.
+> Leaping ahead: Frees the other for their own possibilities. Creates the possibility of 'authentic alliance.' (Gaffney, Slide 36)
+
+How does Dasein escape the lonely anonymity of the "they-self"? Through the mood of **Anxiety**.
+
+**Anxiety and Death:** Anxiety strips away the comfort of the crowd. It brings Dasein face-to-face with its own finitude (**being-toward-death**). No one else can die your death for you, it is your "ownmost nonrelational possibility." Realizing this forces Dasein to take responsibility for its own life, opening the door to **Authenticity**.
+
+**Authentic Care (Leaping Ahead):** How do authentic people relate? Heidegger contrasts two modes of care. **"Leaping in"** is inauthentic; it means taking over someone's problem, making them dependent on you. **"Leaping ahead"** is authentic; it means supporting the other in a way that frees them to grasp their own possibilities, creating an "authentic alliance."
+
+**The Problem of Destiny:** Gaffney points out a tension in Heidegger's thought. He claims authenticity individuates us, but later in Being and Time, he argues that authentic Dasein must embrace the **historical destiny (Geschick) of its people (Volk)**. Gaffney notes this leap from individual singularity to "collective fate" is highly problematic. It threatens to absorb the individual back into a totalizing mass, laying the philosophical groundwork for his later involvement with National Socialism.
