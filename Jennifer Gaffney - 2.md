@@ -90,4 +90,5 @@ To apply Arendt’s theories to the 21st century, Gaffney draws on contemporary 
 
 #### Wendy Brown and Homo Oeconomicus
 Brown argues that neoliberalism goes far beyond classical liberalism. It is a "governing rationality" that turns everyting — education, health, dating, politics into an **economic market**. It destroys the homo politicus (political citizen acting in concert with others) and replaces them entirely with homo oeconomicus (the isolated economic actor maximizing their own return on investment). This strips human life of its distinctiveness, reducing us to mere survival.
-
+#### Bonnie Honig & Public Things
+Honig critiques the unrelenting privatization of modern life. She argues that democracies require physical **"public things"** (parks, libraries, infrastructure)—spaces that aren't governed by profit, where citizens can gather and share concern for the common good.
