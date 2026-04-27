@@ -46,3 +46,15 @@ Just as time isnt clock-time, space isnt mathematical distance. Heidegger introd
 
 
 # Being-with (Mitsein) and They-Self (das Man)
+
+> "Being-in-the-world is always also being-with-others (Mitsein). The world is always already shared. Even tools imply others: A chair is made for someone."
+> "Dasein initially exists as the they-self (das Man)... Levels down uniqueness into averageness. 'Everyone is the other, and no one is himself.'" (Gaffney, Slides 32 & 33)
+
+Because Dasein is always engaged with a meaningful world, it is fundamentally **Being-with (Mitsein)**. Even when alone, the tools we use carry references to the people who made them or will use them.
+
+However, Gaffnet posses a **paradox**:
+*native relationality does not mean belonging*
+Because we have a drive to bring things near (de-distancing) and make the world familiar, we fall into the trap of they-self (das-Man).
+Instead of existing as unique individuals, we succumb to 'publicness'. We think what *they* think. This leveling down creates an averageness that strips us of our uniqueness.
+
+***Loneliness of Togetherness:*** Dasein is pressed together with the crowd, conforming perfectly to social norms, yet feels profoundly alienated. The individual is absorbed into an anon
