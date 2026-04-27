@@ -1,7 +1,7 @@
 
 # Novelty of Totalitarianism
 
-Arendt argues that totalitarianism (e.g Nazi Germany) is a fundamentally novel form of government. Traditionally, political philosophy classified governments as either lawlful or lawless.
+Arendt argues that totalitarianism   is a fundamentally novel form of government. Traditionally, political philosophy classified governments as either lawlful or lawless.
 
 Totalitarianism shatters this binary. It is not lawless because it doesnt rule by the arbitary whim of a single tyrant seeking personal benefit. Instead it claims to be strictly obedient to *higher* laws. The totalitarian ruler views himself merely as the executioner of these *higher forces*
 
