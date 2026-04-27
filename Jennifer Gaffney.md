@@ -57,4 +57,9 @@ However, Gaffnet posses a **paradox**:
 Because we have a drive to bring things near (de-distancing) and make the world familiar, we fall into the trap of they-self (das-Man).
 Instead of existing as unique individuals, we succumb to 'publicness'. We think what *they* think. This leveling down creates an averageness that strips us of our uniqueness.
 
-***Loneliness of Togetherness:*** Dasein is pressed together with the crowd, conforming perfectly to social norms, yet feels profoundly alienated. The individual is absorbed into an anon
+***Loneliness of Togetherness:*** Dasein is pressed together with the crowd, conforming perfectly to social norms, yet feels profoundly alienated. The individual is absorbed into an anonymous mass (everyone is the other) and is therefore totally hidden from others
+
+
+# Anxiety and Authenticity
+
+ 
