@@ -1,7 +1,7 @@
 
 # Novelty of Totalitarianism
 
-Arendt argues that totalitarianism   is a fundamentally novel form of government. Traditionally, political philosophy classified governments as either lawlful or lawless.
+Arendt argues that totalitarianism (e.g Nazi Germany) is a fundamentally novel form of government. Traditionally, political philosophy classified governments as either lawlful or lawless.
 
 Totalitarianism shatters this binary. It is not lawless because it doesnt rule by the arbitary whim of a single tyrant seeking personal benefit. Instead it claims to be strictly obedient to *higher* laws. The totalitarian ruler views himself merely as the executioner of these *higher forces*
 
@@ -36,3 +36,7 @@ To force individuals into ***Iron band of terror***, Totalitarianism needs to pr
 3. **Stringent Logicality:** It relies on strict, self-coercive logical deduction. It says: if you accept premise A, you must systematically accept B and C, all the way to "the end of the murderous alphabet"
 
 Because the subjects are completely alienated from reality, they cling to this rigid logical consistency. Ideology replaces genuine human thought and freedom with an automated, endless calculation
+
+
+# Triad of Separation: Isolation, Solitude, Loneliness
+
