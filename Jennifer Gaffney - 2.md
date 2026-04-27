@@ -89,4 +89,5 @@ Similarly, Benjamin argues that before there is ever a single, isolated ***"I"**
 To apply Arendt’s theories to the 21st century, Gaffney draws on contemporary political theorists ***Wendy Brown and Bonnie*** Honig to describe the current state of **Neoliberalism**.
 
 #### Wendy Brown and Homo Oeconomicus
-Brown argues that neoliberalism goes far beyond classical liberalism. It is a "governing rationali"
+Brown argues that neoliberalism goes far beyond classical liberalism. It is a "governing rationality" that turns everyting — education, health, dating, politics into an **economic market**. It destroys the homo politicus (political citizen acting in concert with others) and replaces them entirely with homo oeconomicus (the isolated economic actor maximizing their own return on investment). This strips human life of its distinctiveness, reducing us to mere survival.
+
