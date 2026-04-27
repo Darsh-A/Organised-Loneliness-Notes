@@ -92,3 +92,22 @@ To apply Arendt’s theories to the 21st century, Gaffney draws on contemporary 
 Brown argues that neoliberalism goes far beyond classical liberalism. It is a "governing rationality" that turns everyting — education, health, dating, politics into an **economic market**. It destroys the homo politicus (political citizen acting in concert with others) and replaces them entirely with homo oeconomicus (the isolated economic actor maximizing their own return on investment). This strips human life of its distinctiveness, reducing us to mere survival.
 #### Bonnie Honig & Public Things
 Honig critiques the unrelenting privatization of modern life. She argues that democracies require physical **"public things"** (parks, libraries, infrastructure)—spaces that aren't governed by profit, where citizens can gather and share concern for the common good.
+
+**The Resulting Loneliness:** By destroying public things and reducing human beings to self-investing capital, neoliberalism radically deepens the destruction of the "space of appearance." It perfects the atomization of society, leaving citizens profoundly lonely and stripped of meaningful political agency.
+
+
+
+# Political Loneliness
+**Modern Liberal Subjects in Hiding**
+
+To demonstrate how political loneliness functions today, Gaffney examines the 2016 U.S. Presidential election and the phenomenon of the "hidden" or "shy" Trump supporter (voters who lied to polisters or stayed silent about their preferences).
+
+#### The language of Hiddenness
+Gaffney argues that whether or not these hidden voters statistically swung the elections, the fact that we use the word "hidden" to describe citizens in a democracy is a massive **red flag**. It proves that the public "space of appearance" has collapsed. People feel they cannot safely reveal who they are or what they think in public
+
+#### Negative Solidarity
+Following Arendt, Gaffney explains that the atomization of modern life created "slumbering majorities". Because neoliberalism reduced these people to expendable economic units (homo oeconomicus), they became profoundly lonely. This shared sense of being ignored and expendable united entirely disparate groups into a negative solidarity against the establishment
+
+#### Appeal of Populist Rhetoric
+Why did Trump's rhetoric work?
+Gaffney points back to Arendt's theory of totalitarian  ideology - isolated, lonely people lose their grip on shared reality. They are not persuaded by facts, but by consistency and by leaders who give voice to the "hidden" or socially unacceptable thoughts they harbor in their isolation.
