@@ -32,4 +32,17 @@ To understand how Dasein relates to the world, Gaffney outlines three fundamenta
 For Heidegger, we do not exist in time the way a shoe sits in a box. **We are temporal**. Our existence is stretched across three *exstasies*:
 1. **Throwness (Past):** We are always already 'thrown' into a world, a language, a culture we did not choose.
 2. **Projection (Future):** Because Dasein is defined by possibility, we are always throwing ourselves foward into the future, planning and anticipating.
-3. **Engagement (Present):** The collision of our thrown past and our pr
+3. **Engagement (Present):** The collision of our thrown past and our projected future dictates how we engage with the world right now
+
+### B. Care and Handiness
+> "Not consciousness, but care is the basic structure of Dasein. Care gives meaning to the 'for-the-sake-of-which' behind all our actions." (Gaffney, Slide 25)
+
+>"Objects are discovered in their 'handiness' (Zuhandenheit)—their usefulness. Example: The hammer is understood best in using it, not staring at it."
+
+Heidegger argues that our primary relationship to the world is not cognitive observations but Care. We dont start by looking at a hammer as a neutral object with properties (weight, size) we encounter it practically, through its *handiness* or usefulness for a task. Practical everyday involvement always precedes scientific, theoretical knowledge.
+
+### C. Spatiality
+Just as time isnt clock-time, space isnt mathematical distance. Heidegger introduces **de-distancing**. If you are talking to a friend on the phone, they are existentially nearer to you than the glasses sitting physically on your nose. Dasein is always reaching out to bring the world closer through its care and concern.
+
+
+# Being-with (Mitsein) and They-Self (das Man)
