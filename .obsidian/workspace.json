@@ -53,14 +53,12 @@
             "id": "3b2fa0cce3f134a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Jennifer Gaffney - 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Endsem/Ruth T, Sanna TThe Rage of Lonely Men.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Jennifer Gaffney - 2"
+              "icon": "lucide-file-text",
+              "title": "Ruth T, Sanna TThe Rage of Lonely Men"
             }
           },
           {
@@ -135,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5,
-    "collapsed": true
+    "width": 217.5
   },
   "right": {
     "id": "62be838bcc12c394",
@@ -244,9 +241,12 @@
   },
   "active": "3b2fa0cce3f134a0",
   "lastOpenFiles": [
+    "Endsem/gallagher+Janzsolitude.pdf",
+    "Endsem/BrownleeTheLonelyHeartBreaks.pdf",
+    "Endsem/Brennan EDigital Loneliness.pdf",
+    "Jennifer Gaffney - 2.md",
     "Diane Enns.md",
     "Dictionary.md",
-    "Jennifer Gaffney - 2.md",
     "Hannah Arendt.md",
     "Jennifer Gaffney.md",
     "Mijuskovic.md",
@@ -264,8 +264,6 @@
     "MS2/Term Paper/Term Paper Edited.md",
     "README.md",
     "MS1/slides/15thJan26.pdf",
-    "MS2/Enns.pdf",
-    "MS2/Slides/HannahArendtLectureIdeologyTerror.pdf",
     "MS1/Midsem1 TODO.md"
   ]
 }
