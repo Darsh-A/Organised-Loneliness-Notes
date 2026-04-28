@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12. Tietjen-Tirkkonen.md",
+                "file": "9.1 Zahavi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Tietjen-Tirkkonen"
+              "title": "9.1 Zahavi"
             }
           }
         ],
@@ -241,12 +241,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b810d69d14f6cfab",
+  "active": "431e082b049d5eda",
   "lastOpenFiles": [
-    "11. Brownlee.md",
-    "12. Tietjen-Tirkkonen.md",
-    "10. Gallagher-Janz.md",
     "9.2 Sarte-Levinas-Husseri.md",
+    "12. Tietjen-Tirkkonen.md",
+    "11. Brownlee.md",
+    "10. Gallagher-Janz.md",
     "9.1 Zahavi.md",
     "9.3 Ponty-Husserl.md",
     "9. Zahavi",
