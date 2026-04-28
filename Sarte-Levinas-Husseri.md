@@ -4,5 +4,24 @@ Whiel Heidegger solved the problem of other minds by making us "always already" 
 
 # The Look - Sarte's Critique of Heidegger
 
-Sarte criticizes Heidegger's concept of **Mitsein**. Heidegger views intersubjectivity as a crew rowing a boat together — an oblique, side-by-side cooperation toward a common goal. Sarte argues this completely misses the fundamental nature of encountering another person, which is fronta confrontation.
+Sarte criticizes Heidegger's concept of **Mitsein**. Heidegger views intersubjectivity as a crew rowing a boat together — an oblique, side-by-side cooperation toward a common goal. Sarte argues this completely misses the fundamental nature of encountering another person, which is ***frontal confrontation***.
+
+For Satre, the defining characteristic of the *Other* is **their radical otherness**. I dont discover the Other by empathizing with them. I discover the Other when i realize **they are looking at me**. The Other is the being who has the power to turn me into an object in their world. **Shame** is the ultimate proof of this; I feel shame not in isolation, but because i suddenly perceive myself as an object through the eyes of the Other. Thus, intersubjectivity is inherently a conflict.
+
+
+# Levinas - Ethical Alterity
+
+**Emmanuel Levinas** takes the "otherness" of the Other even further. He argues that trying to know or empathize with Other is actually a form of a violence. Cognitive intentionality is imperialistic — like alchemy, it tries to transmute the foreign into the familiar. If i try to fully grasp you, I destroy what makes you an Other.
+
+Therefore, the true encounter with the Other is an encounter with an ineffable, radical exeriority  (an epiphany or revelation). It is not an epistemic event but an **ethical** event. The Other presents a face that makes an ethical demand on me. Intersubjectivity is rooted in justice and my responsibility to this unknowable Other.
+
+
+# Husseri - Objective Reality
+
+Husseri focuses on the transcedence of the Other for a different, epistemological reason. He asks: *How do i know the world I am experiencing is objectively real and not just a subjective hallucination?*
+
+His answer - ***Transcedental Intersubjectivity***.
+I can only experience the world as "objective" if I recognize that it is also being perceived by *other* subjects who have their own independent perspectives. The Other guarantees the reality of the world. Therefore, the distinction between what is "subjective" (in my head) and "objective" (real) is only made possible by encountering a foreign subjectivity.
+
+
 
