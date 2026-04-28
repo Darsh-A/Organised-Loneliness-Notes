@@ -1,5 +1,6 @@
 # Organised Loneliness Notes
 This repo contains lecture notes for the IISERM course Organised Loneliness
+
 The notes are written in **Obisidian**
 
 ## Install

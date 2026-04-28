@@ -15,7 +15,15 @@
 		{"id":"c2a4b07ab59ccf8e","type":"text","text":"Husserl","x":-439,"y":210,"width":137,"height":60},
 		{"id":"0dfe7b69dffa71a1","type":"text","text":"two-sidedness of body","x":-700,"y":210,"width":180,"height":60},
 		{"id":"eae5186e60a0364b","type":"text","text":"Levinas","x":-235,"y":300,"width":117,"height":60},
-		{"id":"461128208c501b3c","type":"text","text":"ethical","x":-20,"y":300,"width":180,"height":60}
+		{"id":"461128208c501b3c","type":"text","text":"ethical","x":-20,"y":300,"width":180,"height":60},
+		{"id":"258e908b559144c2","x":580,"y":-320,"width":140,"height":60,"type":"text","text":"Brownlee"},
+		{"id":"0262554a50993938","x":542,"y":-210,"width":217,"height":60,"type":"text","text":"Social Contribution Injustice"},
+		{"id":"2ad5496413fa4083","x":383,"y":-60,"width":250,"height":60,"type":"text","text":"SCI-1: Compromising Resources"},
+		{"id":"72388dd34ecbe1ec","x":702,"y":-60,"width":200,"height":60,"type":"text","text":"SCI-2: Prejudice"},
+		{"id":"050f2fc4415fccc8","x":602,"y":60,"width":97,"height":60,"type":"text","text":"Types"},
+		{"id":"bebafaa28f79d318","x":764,"y":220,"width":139,"height":60,"type":"text","text":"Connection"},
+		{"id":"2e154c51d4fa1266","x":374,"y":220,"width":169,"height":60,"type":"text","text":"Social Ability"},
+		{"id":"f73ed82f8bbf07fd","x":574,"y":220,"width":154,"height":60,"type":"text","text":"Opportunity"}
 	],
 	"edges":[
 		{"id":"bea6dbf41461b9d3","fromNode":"57fa35af48db84af","fromSide":"right","toNode":"4bb973ae517d9181","toSide":"left"},
@@ -33,6 +41,14 @@
 		{"id":"c5abef167af3dd07","fromNode":"eae5186e60a0364b","fromSide":"bottom","toNode":"72fe56daee79ea9f","toSide":"right"},
 		{"id":"f0b11d288ff17f2f","fromNode":"72fe56daee79ea9f","fromSide":"bottom","toNode":"92a9db1a6d2a4aff","toSide":"top"},
 		{"id":"8131fa69924b92d7","fromNode":"0cd4888187162854","fromSide":"bottom","toNode":"72fe56daee79ea9f","toSide":"top"},
-		{"id":"18033c0c0b695175","fromNode":"c2a4b07ab59ccf8e","fromSide":"left","toNode":"0dfe7b69dffa71a1","toSide":"right"}
+		{"id":"18033c0c0b695175","fromNode":"c2a4b07ab59ccf8e","fromSide":"left","toNode":"0dfe7b69dffa71a1","toSide":"right"},
+		{"id":"73c7dad19f82ca21","fromNode":"258e908b559144c2","fromSide":"bottom","toNode":"0262554a50993938","toSide":"top"},
+		{"id":"58d810e47e92e876","fromNode":"0262554a50993938","fromSide":"bottom","toNode":"2ad5496413fa4083","toSide":"top"},
+		{"id":"d74e56d5341385c3","fromNode":"0262554a50993938","fromSide":"bottom","toNode":"72388dd34ecbe1ec","toSide":"top"},
+		{"id":"ab80b24234be07e1","fromNode":"2ad5496413fa4083","fromSide":"bottom","toNode":"050f2fc4415fccc8","toSide":"top"},
+		{"id":"1304914ae654d53e","fromNode":"72388dd34ecbe1ec","fromSide":"bottom","toNode":"050f2fc4415fccc8","toSide":"top"},
+		{"id":"8dbdbd464f1699d8","fromNode":"050f2fc4415fccc8","fromSide":"bottom","toNode":"2e154c51d4fa1266","toSide":"top"},
+		{"id":"94807264ae59d6e1","fromNode":"050f2fc4415fccc8","fromSide":"bottom","toNode":"f73ed82f8bbf07fd","toSide":"top"},
+		{"id":"803eebea6d6e41ed","fromNode":"050f2fc4415fccc8","fromSide":"bottom","toNode":"bebafaa28f79d318","toSide":"top"}
 	]
 }
