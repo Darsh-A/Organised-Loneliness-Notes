@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"7a051d0f932ffc6a","type":"text","text":"Analogy","x":-230,"y":-340,"width":105,"height":60},
+		{"id":"4bb973ae517d9181","type":"text","text":"Infants and animals; complexity","x":-20,"y":-240,"width":240,"height":60},
+		{"id":"57fa35af48db84af","type":"text","text":"Scheier","x":-230,"y":-240,"width":105,"height":60},
+		{"id":"2778b3687f2781f7","type":"text","text":"Zahavi","x":-230,"y":-120,"width":105,"height":60},
+		{"id":"597417f97e66a019","type":"text","text":"Empathy and beyond it","x":-20,"y":-120,"width":180,"height":60},
+		{"id":"eaccfc8b02efcfbf","type":"text","text":"Heidegger","x":-242,"y":0,"width":130,"height":60},
+		{"id":"b55523ecf1ef1835","type":"text","text":"Mitsein (being-with)","x":-20,"y":0,"width":180,"height":60},
+		{"id":"0cd4888187162854","type":"text","text":"Sarte","x":-235,"y":120,"width":117,"height":60},
+		{"id":"eae5186e60a0364b","type":"text","text":"Levinas","x":-236,"y":270,"width":117,"height":60},
+		{"id":"461128208c501b3c","type":"text","text":"ethical","x":-20,"y":270,"width":180,"height":60},
+		{"id":"5b270058fa515b46","type":"text","text":"frontal-confrontation; shame","x":-20,"y":105,"width":200,"height":90},
+		{"id":"e48b92a2410b3c54","type":"text","text":"transcedental","x":-461,"y":90,"width":180,"height":60},
+		{"id":"72fe56daee79ea9f","x":-537,"y":400,"width":166,"height":60,"type":"text","text":"Merleau-Ponty"},
+		{"id":"2821298925043447","x":-232,"y":429,"width":110,"height":63,"type":"text","text":"Husserl"},
+		{"id":"0dfe7b69dffa71a1","type":"text","text":"two-sidedness of body","x":-20,"y":430,"width":180,"height":60},
+		{"id":"92a9db1a6d2a4aff","type":"text","text":"alien to self","x":-534,"y":492,"width":160,"height":60},
+		{"id":"c2a4b07ab59ccf8e","type":"text","text":"Husserl","x":-439,"y":210,"width":137,"height":60}
+	],
+	"edges":[
+		{"id":"bea6dbf41461b9d3","fromNode":"57fa35af48db84af","fromSide":"right","toNode":"4bb973ae517d9181","toSide":"left"},
+		{"id":"3c291c7c71833ff8","fromNode":"7a051d0f932ffc6a","fromSide":"bottom","toNode":"57fa35af48db84af","toSide":"top"},
+		{"id":"30fa74bfa6e2d522","fromNode":"57fa35af48db84af","fromSide":"bottom","toNode":"2778b3687f2781f7","toSide":"top"},
+		{"id":"b32ffe8afe1a9871","fromNode":"2778b3687f2781f7","fromSide":"right","toNode":"597417f97e66a019","toSide":"left"},
+		{"id":"5cc1abda4ba7ce24","fromNode":"2778b3687f2781f7","fromSide":"bottom","toNode":"eaccfc8b02efcfbf","toSide":"top"},
+		{"id":"4ae6a823e4393ac9","fromNode":"eaccfc8b02efcfbf","fromSide":"right","toNode":"b55523ecf1ef1835","toSide":"left"},
+		{"id":"3342f35393b0fb4f","fromNode":"eaccfc8b02efcfbf","fromSide":"bottom","toNode":"0cd4888187162854","toSide":"top"},
+		{"id":"5ce901ec5c89efff","fromNode":"0cd4888187162854","fromSide":"right","toNode":"5b270058fa515b46","toSide":"left"},
+		{"id":"7b39acafca32a873","fromNode":"0cd4888187162854","fromSide":"bottom","toNode":"eae5186e60a0364b","toSide":"top"},
+		{"id":"98518a53f646f7de","fromNode":"eae5186e60a0364b","fromSide":"right","toNode":"461128208c501b3c","toSide":"left"},
+		{"id":"58b670380c7c822e","fromNode":"0cd4888187162854","fromSide":"bottom","toNode":"c2a4b07ab59ccf8e","toSide":"right"},
+		{"id":"a52e3bc8d343ac8d","fromNode":"c2a4b07ab59ccf8e","fromSide":"top","toNode":"e48b92a2410b3c54","toSide":"bottom"},
+		{"id":"c64a65b73649fcda","fromNode":"eae5186e60a0364b","fromSide":"bottom","toNode":"2821298925043447","toSide":"top"},
+		{"id":"e5bb5156d758d287","fromNode":"2821298925043447","fromSide":"right","toNode":"0dfe7b69dffa71a1","toSide":"left"},
+		{"id":"c5abef167af3dd07","fromNode":"eae5186e60a0364b","fromSide":"bottom","toNode":"72fe56daee79ea9f","toSide":"right"},
+		{"id":"f0b11d288ff17f2f","fromNode":"72fe56daee79ea9f","fromSide":"bottom","toNode":"92a9db1a6d2a4aff","toSide":"top"},
+		{"id":"8131fa69924b92d7","fromNode":"0cd4888187162854","fromSide":"bottom","toNode":"72fe56daee79ea9f","toSide":"top"},
+		{"id":"52d9f10267e00424","fromNode":"0cd4888187162854","fromSide":"bottom","toNode":"2821298925043447","toSide":"left"}
+	]
+}
