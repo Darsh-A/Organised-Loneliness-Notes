@@ -43,8 +43,8 @@
               "state": {
                 "file": "bs.canvas",
                 "viewState": {
-                  "x": -91.99529179586582,
-                  "y": 153.5618317542278,
+                  "x": -159.39095219625645,
+                  "y": -36.852310364775434,
                   "zoom": 0
                 }
               },
@@ -52,8 +52,7 @@
               "title": "bs"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,12 +215,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9876d1cf4c7d88e8",
+  "active": "431e082b049d5eda",
   "lastOpenFiles": [
-    "10. Gallagher-Janz.md",
-    "9.3 Ponty-Husserl.md",
-    "bs.canvas",
     "9.2 Sarte-Levinas-Husseri.md",
+    "bs.canvas",
+    "9.3 Ponty-Husserl.md",
+    "10. Gallagher-Janz.md",
     "9.1 Zahavi.md",
     "Untitled.md",
     "12. Tietjen-Tirkkonen.md",
