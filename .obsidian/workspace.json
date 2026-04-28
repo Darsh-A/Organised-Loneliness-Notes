@@ -13,32 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Roberts & Krueger.md",
+                "file": "8. Jennifer Gaffney - 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Roberts & Krueger"
+              "title": "8. Jennifer Gaffney - 2"
             }
           },
           {
             "id": "9876d1cf4c7d88e8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "bs.canvas",
-                "viewState": {
-                  "x": -113.2566288294978,
-                  "y": 96.72196287111369,
-                  "zoom": 0
-                }
+                "file": "9.1 Zahavi.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "bs"
+              "icon": "lucide-file",
+              "title": "9.1 Zahavi"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,10 +199,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "431e082b049d5eda",
+  "active": "9876d1cf4c7d88e8",
   "lastOpenFiles": [
-    "12. Tietjen-Tirkkonen.md",
+    "6. Jennifer Gaffney.md",
     "bs.canvas",
+    "8. Jennifer Gaffney - 2.md",
+    "7. Hannah Arendt.md",
+    "5. Diane Enns.md",
+    "1. Roberts & Krueger.md",
+    "12. Tietjen-Tirkkonen.md",
     "README.md",
     "10. Gallagher-Janz.md",
     "11. Brownlee.md",
@@ -213,18 +216,13 @@
     "9.1 Zahavi.md",
     "Untitled.md",
     "9. Zahavi",
-    "6. Jennifer Gaffney.md",
-    "7. Hannah Arendt.md",
-    "5. Diane Enns.md",
     "Dictionary.md",
     "Endsem/Ruth T, Sanna TThe Rage of Lonely Men.pdf",
     "Endsem/gallagher+Janzsolitude.pdf",
     "Endsem/BrownleeTheLonelyHeartBreaks.pdf",
     "Endsem/Brennan EDigital Loneliness.pdf",
-    "8. Jennifer Gaffney - 2.md",
     "4. Mijuskovic.md",
     "2. Ratcliffe and Strawson.md",
-    "1. Roberts & Krueger.md",
     "3. Seeman.md",
     "MS2/Jennifer Gaffney - Political Loneliness Modern Liberal Subjects in Hiding (2020, Rowman Littlefield) - libgen.li.pdf",
     "MS2/Hannah Arendt - The Origins of Totalitarianism (1973, Harcourt, Brace, Jovanovich) - libgen.li-505-524.pdf",
