@@ -1,4 +1,4 @@
-
+#module3
 ### Argument from Analogy
 > The argument from analogy is a classical attempt to come to grips with the problem of intersubjectivity. The only mind I have direct access to is my own. My access to the mind of another is always mediated by his bodily behaviour by noticing the analogy that exists between this body and my own body, I infer that the foreign body is probably also linked in a similar manner to a foreign mind.
 
@@ -23,3 +23,25 @@ The analogy argument wrongly assumes a Cartesian dualism where the mind is locke
 The **Empathic Approach** solveds the problem of other minds by positioning ***empathy*** as a unique, irreducible form of intentionality. We dont infer the other; we directly empathise with th4em in face-to-face encounters.
 
 However, Zahavia argues that phenomenology must go ***beyond empathy***, Because treating intersubjectivity merely as a concrete face-to-face, "thematic" exchange between two people is too narrow. The deepest phenomenological insights reveal that intersubjectivity is a foundational, a priori ontological structure of our existence, present even when no one else is physically in the room.
+
+
+# A Priori Intersubjectivity (Heidegger)
+
+### Practical Engagement and Tool-use
+Heidegger shifts the search for intersubjectivity away from staring at another person's face (empathy) and toward our **everday, practical engagement with the world**.
+We do not primarily live in a world of raw, natural objects. We line in a world of use, surrounded by artifacts and equipement
+
+When you sit in a chair, wear a shirt, or use a tool, you are inherently interacting with something that was designed by others, manufactured by others, or intended for the use of others. Therefore, the very physical environment we navigate daily is permeated with references to a community of subjects.
+
+### Mitsein as an Priori Structure
+Because our world is saturated with these social references, Heidegger argues that human existence (Dasein) is fundamentally defined by Mitsein (being-with).
+This is a priori-structure, it is a foundational condition of our existence that exists prior to any actual, concrete encounter with another human being.
+
+You do not start as a lonely, isolated ego and then "acquire" your social nature when someone walks into the room. You are socially constituted from the start. In fact, you can only experience the pain of loneliness or the "lack" of others *because* your foundational ontological structure is designed to be *with* them.
+If you werent inherently a being-with, the physical absence of others wouldnt register as lack.
+
+## Binswanger - Banishing the Problem of Others Mind
+Heidegger's framework completely dissolves the traditional epistemological **problem of others mind**. The traditional problem assumes we start as an isolated subject (a mind trapped in a skull) trying to build a bridge to reach another isolated subject.
+
+Heidegger and the phenomenological psychiarist ***Ludwig Binswanger*** point out that this is an illusory problem(a pseudo problem). There is no "bridge" needed because there is no gap to cross. Because Dasein is always already being-in-the-world, and the world is always already shared with others, intersubjectivity is the default starting point. We do not need to prove the existence of other minds through empathy or analogy. The existence of others is always already presupposed by the very fact that we exist in a shared practically engaged world.
+
