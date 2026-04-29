@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Diane Enns.md",
+                "file": "1. Roberts & Krueger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Diane Enns"
+              "title": "1. Roberts & Krueger"
             }
           },
           {
@@ -29,9 +29,9 @@
               "state": {
                 "file": "bs.canvas",
                 "viewState": {
-                  "x": 463.73657195312876,
-                  "y": -938.6676606628345,
-                  "zoom": -0.47056254383797097
+                  "x": 1252.6892279947813,
+                  "y": -1776.6604415065142,
+                  "zoom": -0.105414185863553
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -203,6 +203,7 @@
   },
   "active": "9876d1cf4c7d88e8",
   "lastOpenFiles": [
+    "7. Hannah Arendt.md",
     "bs.canvas",
     "5. Diane Enns.md",
     "12. Tietjen-Tirkkonen.md",
@@ -211,7 +212,6 @@
     "9.1 Zahavi.md",
     "6. Jennifer Gaffney.md",
     "8. Jennifer Gaffney - 2.md",
-    "7. Hannah Arendt.md",
     "1. Roberts & Krueger.md",
     "README.md",
     "9.2 Sarte-Levinas-Husseri.md",
