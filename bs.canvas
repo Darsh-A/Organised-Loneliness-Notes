@@ -79,12 +79,13 @@
 		{"id":"8415c1ccef96b6a4","type":"text","text":"Laws of nature","x":1056,"y":-1440,"width":178,"height":60},
 		{"id":"befc09995b4a1b47","type":"text","text":"Terror - loss of individuality","x":1020,"y":-1560,"width":250,"height":60},
 		{"id":"03e000b1deca25fc","type":"text","text":"Iron band of terror","x":1020,"y":-1680,"width":250,"height":60},
-		{"id":"4849cb4e7bb24bc5","x":560,"y":-1680,"width":250,"height":60,"type":"text","text":"Executioners and victims"},
-		{"id":"162f3a5c85031665","x":560,"y":-1560,"width":250,"height":60,"type":"text","text":"logical deduction"},
-		{"id":"ac22b2c3d4b354e7","x":1020,"y":-1820,"width":250,"height":60,"type":"text","text":"Triad of Seperation"},
-		{"id":"c2b2bd689e3e39db","x":1420,"y":-1900,"width":141,"height":60,"type":"text","text":"Isolation"},
+		{"id":"4849cb4e7bb24bc5","type":"text","text":"Executioners and victims","x":560,"y":-1680,"width":250,"height":60},
+		{"id":"162f3a5c85031665","type":"text","text":"logical deduction","x":560,"y":-1560,"width":250,"height":60},
+		{"id":"ac22b2c3d4b354e7","type":"text","text":"Triad of Seperation","x":1020,"y":-1820,"width":250,"height":60},
+		{"id":"c2b2bd689e3e39db","type":"text","text":"Isolation","x":1420,"y":-1900,"width":141,"height":60},
 		{"id":"b6892cef755a40fb","type":"text","text":"Solitude","x":1420,"y":-1820,"width":141,"height":60},
-		{"id":"204422faad4a26f6","type":"text","text":"Loneliness","x":1561,"y":-1710,"width":141,"height":60}
+		{"id":"204422faad4a26f6","type":"text","text":"Loneliness","x":1561,"y":-1710,"width":141,"height":60},
+		{"id":"90e59535c63bc247","x":-689,"y":-30,"width":250,"height":60,"type":"text","text":"objective - subjective"}
 	],
 	"edges":[
 		{"id":"bea6dbf41461b9d3","fromNode":"57fa35af48db84af","fromSide":"right","toNode":"4bb973ae517d9181","toSide":"left"},
@@ -178,6 +179,7 @@
 		{"id":"274dae86d458fd5e","fromNode":"ac22b2c3d4b354e7","fromSide":"right","toNode":"b6892cef755a40fb","toSide":"left"},
 		{"id":"3e6e0b2f809b58e7","fromNode":"ac22b2c3d4b354e7","fromSide":"right","toNode":"204422faad4a26f6","toSide":"left"},
 		{"id":"c31bb828e9a5891f","fromNode":"c2b2bd689e3e39db","fromSide":"right","toNode":"204422faad4a26f6","toSide":"top"},
-		{"id":"50d1118bd1f9232c","fromNode":"b6892cef755a40fb","fromSide":"right","toNode":"204422faad4a26f6","toSide":"top"}
+		{"id":"50d1118bd1f9232c","fromNode":"b6892cef755a40fb","fromSide":"right","toNode":"204422faad4a26f6","toSide":"top"},
+		{"id":"02167571e249a414","fromNode":"e48b92a2410b3c54","fromSide":"top","toNode":"90e59535c63bc247","toSide":"right"}
 	]
 }
